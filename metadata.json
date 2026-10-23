@@ -1,0 +1,6 @@
+{
+  "name": "CafeDesk - 工作咖啡廳搜尋指南",
+  "description": "專為遠端工作與筆電族打造的咖啡廳搜尋工具。依營業時段、插座數量、Wi-Fi 網速、自然採光、裝潢風格與限時政策精準篩選適合專注工作的咖啡空間。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
